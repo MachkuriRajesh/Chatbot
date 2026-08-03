@@ -10,4 +10,5 @@ The system utilizes Streamlit's session_state to store and manage active convers
 * **Streaming Responses:** Text generates dynamically in real-time for fluid conversations
 
 ## ✅OUTPUT MODEL
-* <img width="500" height="700" alt="Sample Image Aug 3, 2026, 02_23_53 PM" src="https://github.com/user-attachments/assets/03beb562-993d-4a7a-9f67-067628b92c73" />
+* <img width="800" height="700" alt="ChatGPT Image Aug 3, 2026, 03_06_17 PM" src="https://github.com/user-attachments/assets/dc330259-d3d1-4ac3-be32-8c1bdb16f949" />
+
